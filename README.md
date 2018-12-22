@@ -1,8 +1,6 @@
 ## Tree Traversal
 
-This project shows an implementation of Depth First Search Algorithm and Breadth First Search Algorithm
-
-in finding a Node in a Tree using Queues.
+This project shows an implementation of Depth First Search Algorithm and Breadth First Search Algorithm in finding a Node in a Tree Data Structure using Queues.
 
 ## Software requirements
 
